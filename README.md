@@ -1,2 +1,0 @@
-# sunsoftechy
-This is website
